@@ -1,1 +1,3 @@
 # FirstGit
+
+$use git
